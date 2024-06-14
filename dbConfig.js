@@ -1,6 +1,6 @@
 const config = {
   user: "Admin",
-  password: "admin",
+  password: "adm12345",
   server: "LAPTOP-HP32FKJT",
   database: "DEVDB",
   options: {
